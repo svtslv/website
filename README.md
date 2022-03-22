@@ -1,2 +1,3 @@
-# website
-website
+## Website
+
+GitHub Pages
